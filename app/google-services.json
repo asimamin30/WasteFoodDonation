@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452880339766",
+    "project_id": "wastefoodfinal",
+    "storage_bucket": "wastefoodfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452880339766:android:235481804dbe62e96a1997",
+        "android_client_info": {
+          "package_name": "com.DevbyAxim.ExtraFoodDonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452880339766-c03u1b3ahk2pnrq8um0f8gmr3af4vc3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyHMLOZ89wtlfkEnEEuwT2RYeKCwqXlHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452880339766-c03u1b3ahk2pnrq8um0f8gmr3af4vc3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

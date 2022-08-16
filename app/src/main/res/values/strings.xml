@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Extra Food Donation</string>
+
+    <!--    Material Category -->
+    <string-array name="user_type">
+        <item>Donor</item>
+        <item>Receiver</item>
+    </string-array>
+
+    <string-array name="user_category">
+        <item>Organization</item>
+        <item>Individual</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
